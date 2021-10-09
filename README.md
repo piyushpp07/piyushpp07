@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [ShoppingAdda](https://github.com/piyushpp07/ShoppingAdda)
 
-- 💬 Ask me about **React Js, React Native, Firebase , Javascript ,C++ ,Pyhton ,Node Js**
+- 💬 Ask me about **React Js, React Native, Firebase , Javascript ,C++ ,Python ,Node Js**
 
 - 📫 How to reach me **piyushpar7@gmail.com**
 
